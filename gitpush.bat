@@ -3,8 +3,8 @@ cd /inetpub/wwwroot/w/tredway
 
 
 git add .
-git commit -m "from indesign 2025-02-27 12:44" --no-edit
-git push https://github.com/rweil55/web-tredway main
+git commit -m "from indesign 2025-08-04 07:19" --no-edit
+git push --force --set-upstream origin main
 
 rem wait for one minute to allow git hub to get its act together
 timeout 60
